@@ -1,0 +1,78 @@
+.body{
+    margin: 0;
+}
+.navbar1{
+    background-color: black;
+    display: flex;
+    color: white;
+    justify-content: space-evenly;
+}
+.navbar2{
+    display: flex;
+    justify-content: space-between;
+}
+.midd{
+    display: flex;
+    align-items: center;
+}
+.midd2{
+    display: flex;
+}
+.out{
+    color: red;
+}
+.sport{
+    color: gray;
+}
+.bg1{
+    background: url("1first.webp");
+    width: 100%;
+    min-height: 100vh;
+    background-size: cover;
+    margin:0;
+}
+.bg1 h1{
+    color: white;
+    padding-top: 60px;
+    padding-left: 60px;
+    font-size: 40px;
+}
+.bg1 button{
+    margin-top: 30px;
+    margin-left: 60px;
+    padding: 20px;
+}
+.bg2{
+    background: url("2nd.webp");
+    width: 100%;
+    min-height: 100vh;
+    background-size: cover;
+}
+.bg2 h1{
+    color: white;
+    padding-top: 60px;
+    padding-left: 60px;
+    font-size: 40px;
+}
+.bg2 button{
+    margin-top: 30px;
+    margin-left: 60px;
+    padding: 20px;
+}
+.bg2 p{
+    color: white;
+    padding-left: 60px;
+}
+.foot{
+padding-top: 50px;
+}
+.foot h1{
+   padding-left: 40%;
+}
+.foot button{
+    padding: 15px;
+}
+.arg
+{
+    margin-left: 30%;
+}
